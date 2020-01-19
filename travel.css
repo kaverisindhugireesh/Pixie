@@ -1,0 +1,121 @@
+.main
+{
+	
+	}
+
+.main_1
+{
+	padding-top: 20px;
+
+}
+
+
+.menu
+{
+	float: right;
+}
+.menu a
+{
+	float: left;
+	display: block;
+	text-decoration: none;
+	padding: 20px 32px;
+	color: white;
+	font-size: 20px;
+	 line-height: 20px;
+    margin-bottom: 10px;
+}
+.formse
+{
+	 background: url(./images/main.jpg) no-repeat 0px 0px;
+     -webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+-ms-background-size: cover;
+min-height: 600px;
+	
+	
+	
+
+}
+.form-style-w3layout input[type="text"], .form-style-w3layout input[type="email"], .form-style-w3layout input[type="password"],select {
+    outline: none;
+    font-size: 14px;
+    border: none;
+    color: #666;
+    background: #f1f1f1;
+    letter-spacing: 0.5px;
+    padding: 14px 20px;
+    width: 49%;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+}
+.form-style-w3layout button.btn {
+    color: #fff;
+    background: #f4b200;
+    border: none;
+    padding: 14px 0;
+    outline: none;
+	border-radius: 0;
+    width: 100%;
+    font-size: 15px;
+    cursor: pointer;
+    letter-spacing: 1px;
+    -webkit-transition: 0.5s all;
+    -o-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -ms-transition: 0.5s all;
+    transition: 0.5s all;
+}
+.form-style-w3layout input[type="submit"]:hover {
+    background: #dc3545;
+}
+.forms_1
+{
+	  padding: 2.5em;
+	  background-color:rgba(1, 17, 68, 0.17);
+	  float: right;
+ }
+ .forms
+ {
+ 	  padding: 18vw 0 0vw;
+    box-sizing: border-box;
+    position: relative;
+    right: 80px;
+    }
+
+@media only screen and (max-width: 768px)
+
+{
+	.forms
+	{
+		position: relative;
+		right: 0px;
+	}
+}
+/************************************************************************/
+.About
+{
+	padding: 5.5em;
+	background-color: #FFBD33;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
